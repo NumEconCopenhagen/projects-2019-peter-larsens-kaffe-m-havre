@@ -11,3 +11,4 @@ Er du med timon
 Vi ta'r en mer'
 
 tester 5
+test 1 2 3 
