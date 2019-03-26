@@ -13,3 +13,5 @@ Vi ta'r en mer'
 tester 5
 test 1 2 3 
 tester 2 
+
+det virker nu
