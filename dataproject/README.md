@@ -7,3 +7,5 @@ Hej drenge
 hej kasper 
 
 Er du med timon 
+
+Vi ta'r en mer'
