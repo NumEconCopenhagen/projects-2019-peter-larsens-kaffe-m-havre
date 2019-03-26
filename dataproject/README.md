@@ -7,3 +7,8 @@ hello ffeee
 cdddvvv
 
 hello
+
+a=9
+b=8
+c=a+b 
+print(c)
