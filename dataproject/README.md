@@ -12,7 +12,7 @@ pip install pandas-datareader
 
 pip install git+https://github.com/elben10/pydst
 
-# I am not sure if the package below is neccesary, but I/we had difficulties to make the widgets for interactive plot work unless I installed this package:
+I am not sure if the package below is neccesary, but I/we had difficulties to make the widgets for interactive plot work unless I installed this package:
 
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 
