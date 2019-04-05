@@ -9,8 +9,10 @@ In the second part of the project we focus on the entiry country 'Denmark' in it
 For you to get the same results in our notebook, you need to download a few packages though anaconda prompt or terminal (if you haven't already ). Needed packages:
 
 pip install pandas-datareader
+
 pip install git+https://github.com/elben10/pydst
 
 # I am not sure if the package below is neccesary, but I/we had difficulties to make the widgets for interactive plot work unless I installed this package:
+
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 
