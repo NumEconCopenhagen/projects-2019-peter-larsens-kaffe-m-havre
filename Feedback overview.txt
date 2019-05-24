@@ -1,0 +1,33 @@
+Feedback 
+
+**Group member, QDN619**
+
+Data project 
+- Group KVM           - https://github.com/NumEconCopenhagen/projects-2019-group-kvm/issues/5
+- Credible threats    - https://github.com/NumEconCopenhagen/projects-2019-credible-threats/issues/6
+
+Model Project 
+- TM and MP           - https://github.com/NumEconCopenhagen/projects-2019-tm-and-mp/issues/6
+- DSD                 - https://github.com/NumEconCopenhagen/projects-2019-dsd/issues/11
+
+
+**Group member, NFC688**
+
+Data project 
+- Group KVM           - https://github.com/NumEconCopenhagen/projects-2019-group-kvm/issues/3
+- Credible threats    - https://github.com/NumEconCopenhagen/projects-2019-credible-threats/issues/5
+
+Model project 
+- TM and MP           - https://github.com/NumEconCopenhagen/projects-2019-tm-and-mp/issues/7
+- DSD                 - https://github.com/NumEconCopenhagen/projects-2019-dsd/issues/11
+
+
+**Group member, TQD887** 
+
+Data project 
+- MEC                 - https://github.com/NumEconCopenhagen/projects-2019-mec/issues/2
+- Credible threats    - https://github.com/NumEconCopenhagen/projects-2019-credible-threats/issues/2
+
+Model project 
+- CL                  - https://github.com/NumEconCopenhagen/projects-2019-cl/issues/6
+- Tvaerfaglige tosser - https://github.com/NumEconCopenhagen/projects-2019-tvaerfaglige-tosser/issues/8
